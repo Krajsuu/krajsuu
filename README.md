@@ -7,13 +7,17 @@ I enjoy solving challenging problems and continuously improving my skills in sof
 
 ## 📊 LeetCode Stats
 <div align="center">
+  <h2>📊 Stats</h2>
 
-  <img src="https://leetcard.jacoblin.cool/krajsuu?ext=contest&theme=dark&font=Fira+Code" alt="LeetCode Stats" />
-  <br><br>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajsuu&layout=compact&theme=dark" alt="Top Langs" />
+    <img src="https://leetcard.jacoblin.cool/krajsuu?ext=contest&theme=dark&font=Fira+Code" alt="LeetCode Stats" />
 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajsuu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+  </div>
 </div>
+
 
 ---
 
