@@ -6,8 +6,11 @@ I enjoy solving challenging problems and continuously improving my skills in sof
 ---
 
 ## 📊 LeetCode Stats
+<div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/krajsuu?theme=dark&font=Fira%20Code&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/krajsuu?ext=contest&theme=dark&font=Fira+Code" alt="LeetCode Stats" />
+
+</div>
 
 ---
 
