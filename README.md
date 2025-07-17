@@ -9,6 +9,9 @@ I enjoy solving challenging problems and continuously improving my skills in sof
 <div align="center">
 
   <img src="https://leetcard.jacoblin.cool/krajsuu?ext=contest&theme=dark&font=Fira+Code" alt="LeetCode Stats" />
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajsuu&layout=compact&theme=dark" alt="Top Langs" />
 
 </div>
 
